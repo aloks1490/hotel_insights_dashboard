@@ -70,4 +70,4 @@ By the end of this project, you'll achieve:
 - Expansion to include predictive analytics (e.g., demand forecasting).  
 - Cross-platform compatibility for mobile access.  
 
-![DASHBOARD](https://drive.google.com/file/d/1pv5SPf7MzgUW3lDRUdmetT_GPpPOqKiF/view?usp=sharing)
+[dashboard image](https://drive.google.com/file/d/1pv5SPf7MzgUW3lDRUdmetT_GPpPOqKiF/view?usp=sharing)
